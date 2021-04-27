@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "chance": "1.0.8",
-    "class-validator": "0.7.0",
+    "class-validator": "0.13.0",
     "commander": "2.9.0",
     "escodegen-wallaby": "1.6.11",
     "esmangle": "^1.0.1",
